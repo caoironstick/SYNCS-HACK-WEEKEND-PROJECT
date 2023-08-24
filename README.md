@@ -1,2 +1,4 @@
 # SYNCS-HACK-WEEKEND-PROJECT
 # SYNCS-HACK-WEEKEND-PROJECT
+## This is the project of SYNCS HACK 2023
+Good luck for us
